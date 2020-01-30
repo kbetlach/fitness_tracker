@@ -10,6 +10,8 @@ html,
 body,
 .wrapper {
   height: 100%;
+  background-image: url('../images/hulk.png');
+  background-attachment: fixed;
 }
 
 body {
@@ -42,6 +44,11 @@ header {
 
 header h1 {
   transform: skewX(-2deg);
+  color: white;
+}
+
+h1 {
+  color: white;
 }
 
 select {
