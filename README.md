@@ -10,7 +10,7 @@ If a user clicks "complete workout," this clears the current workout. Similarly,
 
 In the stats dashboard, users can see charts and graphs reflecting their exercise history. The previous week will be displayed, with cardio exercises represnted in the left chart, and resistance on the right. The names of the exercises entered are listed below the graphs.
 
-IMAGE
+<img width="1421" alt="workout" src="https://user-images.githubusercontent.com/53587397/73475589-490c1b00-4356-11ea-85d2-684b5c9e4b49.png">
 
 ## User Story
 
@@ -30,10 +30,10 @@ Here is the link to the deployed app on Heroku:
 
 (https://fitness-tracker-kb.herokuapp.com/)
 
-# Sources and Inspiration
+## Sources and Inspiration
 
-I thought this was an interesting assignment! It was fun to create Express routes and push things into a db.json. My favorite bits of code are here:
+This provided some much needed practice with Mongo and Mongoose schemas. It was my first major exposure to chart.js as well, which definitely added to the visual aspect of the app. 
 
-CODE
+My favorite part was figuring out the API routes. Relative to the rest of the app, it's fairly minimal code that makes everything work!
 
-Doing the detective work and figuring out how to make the post and delete routes was satisfying and fun to figure out.
+![code](https://user-images.githubusercontent.com/53587397/73475846-cafc4400-4356-11ea-8837-3721839b9b08.png)
